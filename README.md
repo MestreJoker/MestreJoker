@@ -18,7 +18,7 @@ Olá! Meu nome é Gabriel, tenho 19 anos e sou um entusiasta de tecnologia em bu
 |---------------------|---------------|---------------------------------------|
 | **HTML**           | Avançado | Semântica, links, imagens, vídeos, réplicas de interfaces (Instagram, YouTube). |
 | **CSS**            | Intermediário-Avançado | Grid, Flexbox, `:hover`, gradientes, responsividade com `@media`, boas práticas. |
-| **JavaScript**     | Básico-Intermediário | Manipulação do DOM, POO (classes, herança, polimorfismo), `try/catch`, getters/setters, eventos como `input`. |
+| **JavaScript**     | Básico-Intermediário | Manipulação do DOM, POO (classes, herança, polimorfismo), `try/catch`, getters/setters, eventos como 'input' e 'click' e functions. |
 
 ### Design e Edição
 | Ferramenta         | Nível         | Detalhes                              |
