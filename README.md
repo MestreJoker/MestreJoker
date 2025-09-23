@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<i class="devicon-html5-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <i class="devicon-css3-plain colored"></i>
 <i class="devicon-javascript-plain colored"></i>
 <i class="devicon-vscode-plain colored"></i>
