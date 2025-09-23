@@ -80,7 +80,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-          
+---
           
 # 👨‍💻 Perfil de Gabriel - Desenvolvedor Front-End em Ascensão
 
