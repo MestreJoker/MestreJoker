@@ -1,3 +1,17 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-css3-plain colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-vscode-plain colored"></i>
+<i class="devicon-git-plain colored"></i>
+<i class="devicon-github-original colored"></i>
+<i class="devicon-photoshop-plain colored"></i>
+<i class="devicon-python-plain colored"></i>
+<i class="devicon-java-plain colored"></i>
+
+          
+          
 # 👨‍💻 Perfil de Gabriel - Desenvolvedor Front-End em Ascensão
 
 Olá! Meu nome é Gabriel, tenho 19 anos e sou um entusiasta de tecnologia em busca de oportunidades como estagiário ou júnior em desenvolvimento front-end. Estou estudando para me tornar um profissional completo, com foco em criar interfaces bonitas, funcionais e responsivas. Aqui você encontrará um resumo das minhas habilidades, projetos e um pouco sobre minha jornada!
