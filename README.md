@@ -6,8 +6,7 @@ Olá! Meu nome é Gabriel, tenho 19 anos e sou um entusiasta de tecnologia em bu
 
 ## 🚀 Sobre Mim
 - 🌱 **Estudante**: Cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
-- 🎯 **Objetivo**: Aprimorar minhas habilidades em HTML, CSS, JavaScript e design, buscando meu primeiro estágio.
-- 💡 **Interesses**: Web design, UX/UI e replicação de interfaces famosas como Instagram e YouTube.
+- 🎯 **Objetivo**: Aprimorar minhas habilidades em HTML, CSS, JavaScript e frameworksn, buscando meu primeiro estágio.
 
 ---
 
