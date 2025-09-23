@@ -80,7 +80,7 @@
 />
 
 <br>
----
+<hr>
           
 # 👨‍💻 Perfil de Gabriel - Desenvolvedor Front-End em Ascensão
 
