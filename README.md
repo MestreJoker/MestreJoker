@@ -136,7 +136,6 @@ Olá! Meu nome é Gabriel, tenho 19 anos e sou um entusiasta de tecnologia em bu
 ## 🎓 Educação
 - **Graduação em Análise e Desenvolvimento de Sistemas**  
   Universidade Cruzeiro do Sul (Em andamento)  
-  - TCC: Aplicativo completo desenvolvido em grupo.
 
 - **Técnico em Desenvolvimento de Sistemas**  
   ETEC de Guaianazes (Concluído)  
