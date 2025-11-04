@@ -1,159 +1,183 @@
-<img 
-    align="left" 
+<img
+    align="left"
     alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    title="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-<img 
-    align="left" 
-    alt="CSS" 
+<img
+    align="left"
+    alt="CSS"
     title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
+<img
+    align="left"
+    alt="JavaScript"
     title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-<img 
-    align="left" 
+<img
+    align="left"
     alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-<img 
-    align="left" 
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+    align="left"
+    alt="Next.js"
+    title="Next.js"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+<img
+    align="left"
+    alt="Tailwind"
+    title="Tailwind CSS"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img
+    align="left"
     alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    title="Bootstrap"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
-<img 
-    align="left" 
-    alt="VsCode"
-    title="vsCode" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
+<img
+    align="left"
     alt="Git"
-    title="Git" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    title="Git"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<img 
-    align="left" 
+<img
+    align="left"
     alt="GitHub"
-    title="GitHub" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    title="GitHub"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-<img 
-    align="left" 
+<img
+    align="left"
+    alt="VsCode"
+    title="VS Code"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img
+    align="left"
     alt="Photoshop"
-    title="Photoshop" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+    title="Photoshop"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<br><br>
 
-<br>
-<br>
-          
-# 👨‍💻 Perfil de Gabriel - Desenvolvedor Front-End em Ascensão
+# 👨‍💻 Gabriel dos Santos Gomes – Desenvolvedor Front-End em Ascensão
 
-Olá! Meu nome é Gabriel, tenho 19 anos e sou um entusiasta de tecnologia em busca de oportunidades como estagiário ou júnior em desenvolvimento front-end. Estou estudando para me tornar um profissional completo, com foco em criar interfaces bonitas, funcionais e responsivas usando TypeScript e outros tools. Aqui você encontrará um resumo das minhas habilidades, projetos e um pouco sobre minha jornada!
+Olá! Sou **Gabriel**, 19 anos, estudante de **Análise e Desenvolvimento de Sistemas** (Cruzeiro do Sul, bolsa 100%) e técnico em Desenvolvimento de Sistemas (ETEC Guaianazes).  
+Atualmente, construo **interfaces modernas com React, Next.js e TypeScript**, com foco em **componentes reutilizáveis, responsividade e performance**.
 
 ---
 
 ## 🚀 Sobre Mim
-- 🌱 **Estudante**: Cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
-- 🎯 **Objetivo**: Aprimorar minhas habilidades em HTML, CSS, JavaScript, TypeScript e frameworks, buscando meu primeiro estágio.
+- **Estudante**: Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)  
+- **Objetivo**: Estágio em Front-End para aplicar React, TypeScript e Next.js em projetos reais  
+- **Foco**: Interfaces bonitas, funcionais e escaláveis
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-### Front-End
-| Tecnologia         | Nível         | Detalhes                              |
-|---------------------|---------------|---------------------------------------|
-| **HTML**           | Avançado | Semântica, links, imagens, vídeos, réplicas de interfaces (Instagram, YouTube). |
-| **CSS**            | Intermediário-Avançado | Grid, Flexbox, `:hover`, gradientes, responsividade com `@media`, boas práticas. |
-| **JavaScript**     | Intermediário | Manipulação do DOM, POO (classes, herança, polimorfismo), `try/catch`, getters/setters, eventos como 'input' e 'click', functions, eventos e arrays. |
-| **TypeScript**     | Básico-Intermediário | Tipos básicos, interfaces, classes, herança, generics. |
-
-### Design e Edição
-| Ferramenta         | Nível         | Detalhes                              |
-|---------------------|---------------|---------------------------------------|
-| **Photoshop**      | Básico-Intermediário | Conta-gotas, varinha mágica, camadas, balde de tinta, laço poligonal, gradiente, caneta básica, matiz/saturação (cores vivas/preto e branco), brilho externo/interno, traçado, sombra, relevo, atalhos (`Ctrl + T`, `Ctrl + Z`). |
-
-### Outros
-- **Git**: Noções básicas de controle de versão (git init, add, commit, branch, checkout, pull request).
-- **Principais Projetos**: Réplicas de Instagram e Google, calculadora, jogo da velha (em processo de tipagem com TypeScript), etc.
+| Tecnologia | Detalhes |
+|-----------|---------|
+| **HTML5** | Semântica, acessibilidade, réplicas complexas (Instagram, Google) |
+| **CSS3** | Grid, Flexbox, responsividade, animações, `:hover`, gradientes |
+| **JavaScript** | DOM, POO, eventos, arrays (`map`, `filter`, `reduce`, `forEach`), funções |
+| **TypeScript** | Tipos, interfaces, generics, classes, herança, integração com React |
+| **React** | Componentes funcionais, `useState`, props, eventos, JSX, inputs controlados |
+| **Next.js** | `app/` directory, rotas, `next/image`, componentes reutilizáveis |
+| **Tailwind CSS** | Utilitários, `@apply`, design system, responsividade |
+| **Git/GitHub** | Branches, commits, pull requests, versionamento, hospedagem |
 
 ---
 
 ## 💻 Projetos Destacados
+
 - **[Réplica do Instagram](https://mestrejoker.github.io/Replica-Instagram/)**  
-  Uma recriação fiel da home do Instagram usando HTML e CSS puros, com layout responsivo.
-- **[Calculadora](https://mestrejoker.github.io/Calculadora-JS/)**  
-  Calculadora interativa com JavaScript e estilização moderna (em processo de adição de TypeScript).
+  Layout fiel com HTML + CSS puro, responsivo e pixel-perfect.
+
+- **[Calculadora Interativa](https://mestrejoker.github.io/Calculadora-JS/)**  
+  Lógica completa em JS, com estilização moderna (em migração para React + TS).
+
 - **[Jogo da Velha](https://mestrejoker.github.io/Tic-Tac-Toe_Jogo-da-velha_JS/)**  
-  Jogo simples com lógica em JavaScript e design limpo (em processo de tipagem com TypeScript).
+  Interativo com vitória, empate e reinício (em refatoração com React + `useState`).
 
 ---
 
-## 🎓 Educação
+## 🎓 Formação
+
 - **Graduação em Análise e Desenvolvimento de Sistemas**  
-  Universidade Cruzeiro do Sul (Em andamento)  
+  Universidade Cruzeiro do Sul – Em andamento (bolsa 100%)
 
 - **Técnico em Desenvolvimento de Sistemas**  
-  ETEC de Guaianazes (Concluído)  
-  - TCC: Aplicativo completo desenvolvido em grupo.
+  ETEC Guaianazes – Concluído (2024)  
+  TCC: Aplicativo completo em grupo
+
+---
+
+## 🏆 Conquistas
+
+- **4x Menção Honrosa – OBMEP** (2019, 2021, 2023, 2024)  
+- **16º lugar no Vestibulinho da ETEC Guaianazes** (2022)  
+- **31º lugar no Vestibular da FATEC SP** (2025) – Curso mais concorrido
+
+---
+
+## 📚 Cursos Complementares
+
+- **Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025** – Udemy (76h, cursando)  
+- **Desenvolvimento Mobile** – SENAI (68h, 2022)  
+- **Informática** – Macrobyte (128h, 2023)
 
 ---
 
 ## 🌟 Objetivos de Aprendizado
-- Dominar JavaScript avançado (assincronia, APIs).
-- Aprimorar TypeScript (testes, integração com APIs).
-- Aprender React e Next em profundidade.
-- Aperfeiçoar design em Figma e princípios de UX/UI.
+
+- Dominar `useEffect`, `useRef`, React Hook Form  
+- Integrar APIs com `fetch` e assincronia  
+- Construir projetos full-stack com Next.js  
+- Dominar Figma e UX/UI
 
 ---
 
 ## 📧 Contato
+
 - **Email**: [contatogabriel1104@gmail.com](mailto:contatogabriel1104@gmail.com)  
+- **GitHub**: [github.com/MestreJoker](https://github.com/MestreJoker)  
+- **Localização**: Guaianases, São Paulo – SP
 
-Sinta-se à vontade para entrar em contato ou explorar meus códigos! Estou aberto a feedback e colaborações.
-
----
+> **Aberto a feedback, colaborações e oportunidades de estágio!**
