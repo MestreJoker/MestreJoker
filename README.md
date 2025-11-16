@@ -131,30 +131,20 @@ Construo **componentes reutilizáveis**, **aplicações responsivas** e **protot
 
 ## Projetos em Destaque
 
-### [Calculadora Interativa com Validações](https://github.com/MestreJoker/Calculadora-React-TS)
-> **React + TypeScript + Tailwind CSS**  
-- Lógica completa: `+`, `−`, `×`, `÷`, `.`, `C`, `CE`, `=`  
-- **Validações avançadas**: sem dois pontos, sem operador no início, sem `5++`  
-- `try/catch` com feedback visual  
-- Responsiva, com `grid-template-areas`  
-> **Deploy em breve no Vercel**
-
-### [Réplica do Site da Adidas](https://github.com/MestreJoker/Adidas-Replica)
-> **Figma + React + Tailwind CSS**  
-- Design pixel-perfect no Figma (com Pen Tool)  
-- Layout com `next/image`, `gradient`, `shadow`, `hover:scale`  
-- Botão "COMPRAR" com animação  
-> **Design + Código = Full-Stack Front-End**
-
-### [Réplica do Instagram](https://mestrejoker.github.io/Replica-Instagram/)
-> **HTML + CSS puro**  
-- Layout responsivo, stories, feed, navegação  
-- 100% fiel ao original
+### [Calculadora](https://mestrejoker.github.io/Calculadora-JS/)
+> **JavaScript + HTML/CSS**  
+- Operações básicas, apagar e limpar visor, tratamento de exceções 
+- Em refatoração com React + 'useState'
 
 ### [Jogo da Velha Interativo](https://mestrejoker.github.io/Tic-Tac-Toe_Jogo-da-velha_JS/)
 > **JavaScript + HTML/CSS**  
 - Vitória, empate, reinício  
 - Em refatoração com React + `useState`
+
+### [Réplica do Instagram](https://mestrejoker.github.io/Replica-Instagram/)
+> **HTML + CSS puro**  
+- Layout responsivo, stories, feed, navegação  
+- 100% fiel ao original
 
 ---
 
@@ -181,7 +171,6 @@ Construo **componentes reutilizáveis**, **aplicações responsivas** e **protot
 | Curso | Plataforma | Duração |
 |------|-----------|--------|
 | Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025 | Udemy | 76h (cursando) |
-| Figma do Zero ao Pro | [Seu curso] | Concluído |
 | Desenvolvimento Mobile | SENAI | 68h |
 | Informática | Macrobyte | 128h |
 
