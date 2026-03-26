@@ -32,6 +32,22 @@
 />
 <img
     align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/java-original.svg"
+/>
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/python-original.svg"
+/>
+<img
+    align="left"
     alt="React"
     title="React"
     width="40px"
