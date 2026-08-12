@@ -1,211 +1,93 @@
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img
-    align="left"
-    alt="Tailwind"
-    title="Tailwind CSS"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img
-    align="left"
-    alt="Figma"
-    title="Figma"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img
-    align="left"
-    alt="VsCode"
-    title="VS Code"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img
-    align="left"
-    alt="Photoshop"
-    title="Photoshop"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
-/>
-<br><br>
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="VS Code" title="VS Code" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Photoshop" title="Photoshop" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+</p>
 
-# Gabriel dos Santos Gomes – Desenvolvedor Front-End & Designer
+# Gabriel dos Santos Gomes – Desenvolvedor Front-End
 
-**19 anos | Guaianases, SP**  
-**Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul, bolsa 100%)**  
-**Técnico em Desenvolvimento de Sistemas (ETEC Guaianazes, 2024)**
+**19 anos | São Paulo (Guaianases) – SP**  
+**Desenvolvedor Front-end (Jovem Aprendiz) na Reciclo Inteligência Ambiental**[cite: 1, 2]  
+**Graduação em Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul, bolsa 100% – Previsão 12/2026)**[cite: 1, 2]
 
-> **Transformo ideias em interfaces modernas, funcionais e pixel-perfect — com código limpo e design estratégico.**
+> **Transformo ideias em interfaces modernas, responsivas e de alta performance utilizando React, Next.js, TypeScript e Tailwind CSS, aplicando boas práticas de UX e versionamento com Git/GitHub.**[cite: 1, 2]
 
 ---
 
-## Sobre Mim
+## Experiência Profissional
 
-Sou um **desenvolvedor front-end em ascensão** com foco em **React, TypeScript, Next.js e Tailwind CSS**, combinado com **design de interfaces (Figma)**.  
-Construo **componentes reutilizáveis**, **aplicações responsivas** e **prototipos funcionais** — do zero ao deploy.
+### **Desenvolvedor Front-end (Jovem Aprendiz em TI)** | *Reciclo Inteligência Ambiental*
+*(02/2026 – Atual)*
+- Desenvolvimento e reestruturação de interfaces web para sistema interno de gerenciamento utilizando React/Next.js, TypeScript e Tailwind CSS, focando em usabilidade, organização de componentes e responsividade[cite: 1, 2].
+- Suporte no controle, diagnóstico de ativos de hardware e gestão básica de inventário de equipamentos[cite: 1, 2].
 
 ---
 
 ## Habilidades Técnicas
 
-| Tecnologia | Nível & Detalhes |
-|-----------|------------------|
-| **HTML5** | Semântica, acessibilidade, réplicas complexas (Instagram, Adidas, Google) |
-| **CSS3** | Grid, Flexbox, `@apply`, `grid-template-areas`, animações, `hover`, `focus`, gradientes |
-| **JavaScript** | DOM, POO, eventos, `map`, `slice`, `eval` com `try/catch`, validações avançadas |
-| **TypeScript** | `type`, `interface`, `!`, `|`, generics, classes, integração com React |
-| **React** | `useState`, `map`, componentes dinâmicos, inputs controlados, lógica de estado |
-| **Next.js** | `app/` directory, rotas, `next/image`, estrutura escalável |
-| **Tailwind CSS** | Utilitários, `@apply`, design system, `grid-template-areas`, responsividade |
-| **Figma** | Ferramenta Caneta, Auto Layout, Componentes, Variantes, Exportação para código |
-| **Git/GitHub** | Branches, commits, pull requests, versionamento, hospedagem (GitHub Pages, Vercel) |
+| Categoria | Tecnologias & Ferramentas |
+|-----------|---------------------------|
+| **Front-End** | HTML5 semântico, CSS3 (Grid/Flexbox), JavaScript (ES6+), TypeScript, React, Next.js (App Router), Tailwind CSS[cite: 1, 2] |
+| **Outras Linguagens** | Python, Java[cite: 1, 2] |
+| **Design & UI** | Figma (Auto Layout, variantes, prototipagem pixel-perfect)[cite: 1, 2] |
+| **Ferramentas & DevOps** | Git, GitHub (commits, branches, PRs), VS Code, Photoshop, Manutenção de Hardware[cite: 1, 2] |
 
 ---
 
 ## Projetos em Destaque
 
-### [Calculadora](https://mestrejoker.github.io/Calculadora-JS/)
-> **JavaScript + HTML/CSS**  
-- Operações básicas, apagar e limpar visor, tratamento de exceções 
-- Em refatoração com React + 'useState'
+### 🏡 **Réplica do Airbnb**
+> **React | Next.js (App Router/Server Components) | TypeScript | Tailwind CSS**
+- Interface responsiva desenvolvida com roteamento dinâmico, consumo de dados assíncronos e arquitetura moderna utilizando os recursos mais recentes do Next.js.
 
-### [Jogo da Velha Interativo](https://mestrejoker.github.io/Tic-Tac-Toe_Jogo-da-velha_JS/)
-> **JavaScript + HTML/CSS**  
-- Vitória, empate, reinício  
-- Em refatoração com React + `useState`
+### 📱 **COMBATEC**
+> **React Native**[cite: 1]
+- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido como projeto de conclusão do curso técnico na ETEC[cite: 1, 2].
 
-### [Réplica do Instagram](https://mestrejoker.github.io/Replica-Instagram/)
-> **HTML + CSS puro**  
-- Layout responsivo, stories, feed, navegação  
-- 100% fiel ao original
+### 🔍 **Consulta de CEP**
+> **React | Next.js | TypeScript | Tailwind CSS**[cite: 1]
+- Aplicação web para consumo de API externa, tratamento de dados assíncronos e busca dinâmica[cite: 1].
 
 ---
 
-## Formação
+## Formação Acadêmica
 
-- **Graduação em Análise e Desenvolvimento de Sistemas**  
-  Universidade Cruzeiro do Sul – Em andamento (bolsa 100%)  
-- **Técnico em Desenvolvimento de Sistemas**  
-  ETEC Guaianazes – Concluído (2024)  
-  TCC: Aplicativo completo em grupo
+- **Análise e Desenvolvimento de Sistemas (Graduação)** – Universidade Cruzeiro do Sul *(Em andamento – Previsão: 12/2026 | Bolsa 100%)*[cite: 1, 2]
+- **Técnico em Desenvolvimento de Sistemas** – ETEC de Guaianazes *(Concluído em 2024)*[cite: 1, 2]
 
 ---
 
 ## Conquistas Acadêmicas
 
-- **4x Menção Honrosa – OBMEP** (2019, 2021, 2023, 2024)  
-- **16º lugar no Vestibulinho da ETEC Guaianazes** (2022) – Nota 10 em Matemática  
-- **31º lugar no Vestibular da FATEC SP** (2025) – Curso mais concorrido (ADS)
+- **4x Menção Honrosa na OBMEP** (2019, 2021, 2023, 2024)[cite: 2]
+- **16º lugar no Vestibulinho da ETEC Guaianazes** (2022)[cite: 2]
+- **31º lugar no Vestibular da FATEC SP** (ADS) (2025)[cite: 2]
 
 ---
 
-## Cursos Complementares
+## Cursos & Certificações
 
-| Curso | Plataforma | Duração |
-|------|-----------|--------|
-| Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025 | Udemy | 76h (cursando) |
-| Desenvolvimento Mobile | SENAI | 68h |
-| Informática | Macrobyte | 128h |
-
----
-
-## Objetivos de Aprendizado
-
-- `useEffect`, `useRef`, `useContext`, React Hook Form  
-- Integração com APIs (`fetch`, `async/await`)  
-- Projetos full-stack com Next.js + API Routes  
-- Design System completo (Figma + Tokens + Tailwind)  
-- Deploy automático com Vercel + GitHub Actions
+- **Web Frontend Completo (HTML, CSS, JS, TS, React e Next)** – Udemy (76h - Cursando)[cite: 1]
+- **Desenvolvimento Mobile** – SENAI (68h - 2022)[cite: 1]
+- **Informática** – Macrobyte (128h - 2023)[cite: 1]
 
 ---
 
 ## Contato
 
-- **Email**: [contatogabriel1104@gmail.com](mailto:contatogabriel1104@gmail.com)  
-- **GitHub**: [github.com/MestreJoker](https://github.com/MestreJoker)  
-- **Localização**: Guaianases, São Paulo – SP  
+- **Email**: [contatogabriel1104@gmail.com](mailto:contatogabriel1104@gmail.com)[cite: 2]
+- **LinkedIn**: [linkedin.com/in/gabriel-ds-gomes/](https://www.linkedin.com/in/gabriel-ds-gomes/)[cite: 1]
+- **GitHub**: [github.com/MestreJoker](https://github.com/MestreJoker)[cite: 1, 2]
 
-> **Aberto a feedback, colaborações e oportunidades de estágio!**
+> **Aberto a conexões, colaborações e oportunidades de Estágio / Júnior em Front-End!**[cite: 1, 2]
