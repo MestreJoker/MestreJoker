@@ -1,9 +1,12 @@
 <p align="left">
   <img alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <img alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" style="filter: invert(1);">
+    <img alt="Next.js" title="Next.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  </picture>
+  <img alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-   <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -18,10 +21,16 @@
 # Gabriel dos Santos Gomes – Desenvolvedor Front-End
 
 **20 anos | São Paulo (Guaianases) – SP**  
-**Desenvolvedor Front-end (Jovem Aprendiz) na Reciclo Inteligência Ambiental**
+**Desenvolvedor Front-end (Jovem Aprendiz) na Reciclo Inteligência Ambiental**  
 **Graduação em Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul, bolsa 100% – Previsão 12/2026)**
 
 > **Transformo ideias em interfaces modernas, responsivas e de alta performance utilizando React, Next.js, TypeScript e Tailwind CSS, aplicando boas práticas de UX e versionamento com Git/GitHub.**
+
+---
+
+## 🕹️ Snake Game (Gráfico de Contribuições)
+
+![Snake Animation](https://github.com/MestreJoker/MestreJoker/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -38,7 +47,7 @@
 
 | Categoria | Tecnologias & Ferramentas |
 |-----------|---------------------------|
-| **Front-End** | HTML5 semântico, CSS3 (Grid/Flexbox), JavaScript (ES6+), TypeScript, React, Next.js (App Router), Tailwind CSS |
+| **Front-End** | React, Next.js (App Router), TypeScript, Tailwind CSS, HTML5 semântico, CSS3 (Grid/Flexbox), JavaScript (ES6+) |
 | **Outras Linguagens** | Python, Java |
 | **Design & UI** | Figma (Auto Layout, variantes, prototipagem pixel-perfect) |
 | **Ferramentas & DevOps** | Git, GitHub (commits, branches, PRs), VS Code, Photoshop, Manutenção de Hardware |
@@ -88,6 +97,5 @@
 
 - **Email**: [contatogabriel1104@gmail.com](mailto:contatogabriel1104@gmail.com)
 - **LinkedIn**: [linkedin.com/in/gabriel-ds-gomes/](https://www.linkedin.com/in/gabriel-ds-gomes/)
-- **GitHub**: [github.com/MestreJoker](https://github.com/MestreJoker)
 
 > **Aberto a conexões, colaborações e oportunidades de Estágio / Júnior em Front-End!**
