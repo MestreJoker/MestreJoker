@@ -28,12 +28,6 @@
 
 ---
 
-## 🕹️ Snake Game (Gráfico de Contribuições)
-
-![Snake Animation](https://github.com/MestreJoker/MestreJoker/raw/output/github-contribution-grid-snake.svg)
-
----
-
 ## Experiência Profissional
 
 ### **Desenvolvedor Front-end (Jovem Aprendiz em TI)** | *Reciclo Inteligência Ambiental*
@@ -99,3 +93,9 @@
 - **LinkedIn**: [linkedin.com/in/gabriel-ds-gomes/](https://www.linkedin.com/in/gabriel-ds-gomes/)
 
 > **Aberto a conexões, colaborações e oportunidades de Estágio / Júnior em Front-End!**
+
+---
+
+## 🕹️ Snake Game (Gráfico de Contribuições)
+
+![Snake Animation](https://github.com/MestreJoker/MestreJoker/raw/output/github-contribution-grid-snake.svg)
