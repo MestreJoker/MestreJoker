@@ -50,6 +50,10 @@
 
 ## Projetos em Destaque
 
+### 🔍 [CRM Comercial](https://github.com/MestreJoker/crm)
+> **React | Next.js | TypeScript | Tailwind CSS**
+- Sistema responsivo desenvolvido, por mim, para uso real na empresa em que trabalho. CRM Comercial para criação, evolução e consultas de Leads. Cores e dados sensíveis diferentes dos do sistema oficial da empresa por motivos de segurança.
+
 ### 🏡 [Réplica do Airbnb](https://github.com/MestreJoker/Replica-AirBnb-React)
 > **React | Next.js (App Router/Server Components) | TypeScript | Tailwind CSS**
 - Interface responsiva desenvolvida com roteamento dinâmico, consumo de dados assíncronos e arquitetura moderna utilizando os recursos mais recentes do Next.js.
@@ -57,10 +61,6 @@
 ### 📱 [COMBATEC](https://github.com/MestreJoker/Combatec)
 > **React Native**
 - Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido como projeto de conclusão do curso técnico na ETEC.
-
-### 🔍 [Consulta de CEP](https://github.com/MestreJoker/ConsultarCEP)
-> **React | Next.js | TypeScript | Tailwind CSS**
-- Aplicação web para consumo de API externa, tratamento de dados assíncronos e busca dinâmica.
 
 ---
 
