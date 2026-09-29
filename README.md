@@ -50,17 +50,21 @@
 
 ## Projetos em Destaque
 
+### 📱 [COMBATEC](https://github.com/MestreJoker/Combatec)
+> **React Native | PHP | MySQL**
+- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido com múltiplos níveis de acesso (aluno, diretor, admin) e painel estatístico, concluído na ETEC[cite: 6].
+
 ### 🔍 [CRM Comercial](https://github.com/MestreJoker/crm)
 > **React | Next.js | TypeScript | Tailwind CSS**
-- Sistema responsivo desenvolvido, por mim, para uso real na empresa em que trabalho. CRM Comercial para criação, evolução e consultas de Leads. Cores e dados sensíveis diferentes dos do sistema oficial da empresa por motivos de segurança.
+- Sistema responsivo desenvolvido para uso corporativo real. Focado em gestão de leads com funil Kanban, cadastro centralizado e alta produtividade[cite: 9, 10, 11, 12, 13, 14].
 
-### 🏡 [Réplica do Airbnb](https://github.com/MestreJoker/Replica-AirBnb-React)
-> **React | Next.js (App Router/Server Components) | TypeScript | Tailwind CSS**
-- Interface responsiva desenvolvida com roteamento dinâmico, consumo de dados assíncronos e arquitetura moderna utilizando os recursos mais recentes do Next.js.
+### 🎮 [Arena Rift](https://github.com/MestreJoker/arena-rift)
+> **Next.js | React | TypeScript | Supabase | Tailwind CSS**
+- Plataforma web de campeonatos de esports com identidade visual imersiva, listagem de torneios, perfil de jogador e customização interativa de avatares[cite: 13, 15, 17].
 
-### 📱 [COMBATEC](https://github.com/MestreJoker/Combatec)
-> **React Native**
-- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido como projeto de conclusão do curso técnico na ETEC.
+### 📊 [Dashboard](https://github.com/MestreJoker/Dashboard)
+> **Next.js | React | Tailwind CSS | Componentes de Gráficos**
+- Painel gerencial focado em visualização de dados, exibindo indicadores-chave (KPIs) em tempo real, gráficos de desempenho e filtros avançados.
 
 ---
 
