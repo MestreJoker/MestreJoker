@@ -52,15 +52,15 @@
 
 ### 📱 [COMBATEC](https://github.com/MestreJoker/Combatec)
 > **React Native | PHP | MySQL**
-- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido com múltiplos níveis de acesso (aluno, diretor, admin) e painel estatístico, concluído na ETEC[cite: 6].
+- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido com múltiplos níveis de acesso (aluno, diretor, admin) e painel estatístico, concluído na ETEC.
 
 ### 🔍 [CRM Comercial](https://github.com/MestreJoker/crm)
 > **React | Next.js | TypeScript | Tailwind CSS**
-- Sistema responsivo desenvolvido para uso corporativo real. Focado em gestão de leads com funil Kanban, cadastro centralizado e alta produtividade[cite: 9, 10, 11, 12, 13, 14].
+- Sistema responsivo desenvolvido para uso corporativo real. Focado em gestão de leads com funil Kanban, cadastro centralizado e alta produtividade.
 
 ### 🎮 [Arena Rift](https://github.com/MestreJoker/arena-rift)
 > **Next.js | React | TypeScript | Supabase | Tailwind CSS**
-- Plataforma web de campeonatos de esports com identidade visual imersiva, listagem de torneios, perfil de jogador e customização interativa de avatares[cite: 13, 15, 17].
+- Plataforma web de campeonatos de esports com identidade visual imersiva, listagem de torneios, perfil de jogador e customização interativa de avatares.
 
 ### 📊 [Dashboard](https://github.com/MestreJoker/Dashboard)
 > **Next.js | React | Tailwind CSS | Componentes de Gráficos**
