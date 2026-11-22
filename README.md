@@ -9,22 +9,25 @@
   <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" title="Node.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Supabase" title="Supabase" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
   <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Figma" title="Figma" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="VS Code" title="VS Code" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img alt="Photoshop" title="Photoshop" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </p>
 
-# Gabriel dos Santos Gomes – Desenvolvedor Front-End
+# Gabriel dos Santos Gomes – Desenvolvedor Front-end | Full-stack em formação
 
 **20 anos | São Paulo (Guaianases) – SP**  
 **Desenvolvedor Front-end (Jovem Aprendiz) na Reciclo Inteligência Ambiental**  
 **Graduação em Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul, bolsa 100% – Previsão 12/2026)**
 
-> **Transformo ideias em interfaces modernas, responsivas e de alta performance utilizando React, Next.js, TypeScript e Tailwind CSS, aplicando boas práticas de UX e versionamento com Git/GitHub.**
+> **Transformo ideias em interfaces modernas, responsivas e de alta performance utilizando React, Next.js, TypeScript e Tailwind CSS, integrando com back-end e banco de dados (APIs REST, SQL, Supabase) e aplicando boas práticas de UX e versionamento com Git/GitHub.**
 
 ---
 
@@ -41,10 +44,11 @@
 
 | Categoria | Tecnologias & Ferramentas |
 |-----------|---------------------------|
-| **Front-End** | React, Next.js (App Router), TypeScript, Tailwind CSS, HTML5 semântico, CSS3 (Grid/Flexbox), JavaScript (ES6+) |
-| **Outras Linguagens** | Python, Java |
+| **Front-end** | React, Next.js (App Router), TypeScript, Tailwind CSS, HTML5 semântico, CSS3 (Grid/Flexbox), JavaScript (ES6+), Design Responsivo, Componentização |
+| **Back-end e dados (noções)** | Node.js, Express, APIs REST, JSON, SQL, PostgreSQL, Supabase, MySQL, PHP (Combatec) |
+| **Outras linguagens (nível básico)** | Python, Java |
 | **Design & UI** | Figma (Auto Layout, variantes, prototipagem pixel-perfect) |
-| **Ferramentas & DevOps** | Git, GitHub (commits, branches, PRs), VS Code, Photoshop, Manutenção de Hardware |
+| **Ferramentas** | Git, GitHub (commits, branches, PRs), VS Code, Vercel (deploy), Photoshop, Manutenção de Hardware |
 
 ---
 
@@ -52,14 +56,14 @@
 
 ### 📱 [COMBATEC](https://github.com/MestreJoker/Combatec)
 > **React Native | PHP | MySQL**
-- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido com múltiplos níveis de acesso (aluno, diretor, admin) e painel estatístico, concluído na ETEC.
+- Aplicativo mobile focado em impacto social para auxílio no combate ao bullying escolar, desenvolvido com back-end em PHP e banco de dados MySQL, múltiplos níveis de acesso (aluno, diretor, admin) e painel estatístico, concluído na ETEC.
 
 ### 🔍 [CRM Comercial](https://github.com/MestreJoker/crm)
 > **React | Next.js | TypeScript | Tailwind CSS**
 - Sistema responsivo desenvolvido para uso corporativo real. Focado em gestão de leads com funil Kanban, cadastro centralizado e alta produtividade.
 
 ### 🎮 [Arena Rift](https://github.com/MestreJoker/arena-rift)
-> **Next.js | React | TypeScript | Supabase | Tailwind CSS**
+> **Next.js | React | TypeScript | Supabase (PostgreSQL) | Tailwind CSS**
 - Plataforma web de campeonatos de esports com identidade visual imersiva, listagem de torneios, perfil de jogador e customização interativa de avatares.
 
 ### 📊 [Dashboard](https://github.com/MestreJoker/Dashboard)
@@ -71,14 +75,14 @@
 ## Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas (Graduação)** – Universidade Cruzeiro do Sul *(Em andamento – Previsão: 12/2026 | Bolsa 100%)*
-- **Técnico em Desenvolvimento de Sistemas** – ETEC de Guaianazes *(Concluído em 2024)*
+- **Técnico em Desenvolvimento de Sistemas** – ETEC de Guaianases *(Concluído em 2024)*
 
 ---
 
 ## Conquistas Acadêmicas
 
 - **4x Menção Honrosa na OBMEP** (2019, 2021, 2023, 2024)
-- **16º lugar no Vestibulinho da ETEC Guaianazes** (2022)
+- **16º lugar no Vestibulinho da ETEC Guaianases** (2022)
 - **31º lugar no Vestibular da FATEC SP** (ADS) (2025)
 
 ---
@@ -94,9 +98,10 @@
 ## Contato
 
 - **Email**: [contatogabriel1104@gmail.com](mailto:contatogabriel1104@gmail.com)
-- **LinkedIn**: [linkedin.com/in/gabriel-ds-gomes/](https://www.linkedin.com/in/gabriel-ds-gomes/)
+- **LinkedIn**: [linkedin.com/in/gabriel-ds-gomes](https://www.linkedin.com/in/gabriel-ds-gomes/)
+- **Portfólio**: [portfolio-gabriel-gomes.vercel.app](https://portfolio-gabriel-gomes.vercel.app/)
 
-> **Aberto a conexões, colaborações e oportunidades de Estágio / Júnior em Front-End!**
+> **Aberto a conexões, colaborações e oportunidades de Estágio / Júnior em Front-end e Full-stack!**
 
 ---
 
